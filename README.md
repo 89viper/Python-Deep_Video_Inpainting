@@ -4,4 +4,5 @@
 
 ## 의존 패키지 설치
 Python 3.6<br/>
-PyTorch 0.4.0<br/>
+Pytorch 0.4.0<br/>
+
